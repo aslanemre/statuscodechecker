@@ -1,11 +1,7 @@
 import requests
 
 print("""
-
 # WEB SITE STATUS CODE CHECKER #
-
->automated tools from Emre ASLAN<
-
 	""")
 
 site = input("Enter a site for checking : ")
